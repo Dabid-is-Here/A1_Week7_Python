@@ -1,6 +1,7 @@
 # let's explore some functions and how to write them
 # and also what they do
 
+# my version is found in the master branch in the file named "RPSGame.py"
 
 def greeting():
     # say hello
